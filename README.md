@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @twinkleghangare
 - 👀 I’m interested in enhancing my programming skills 
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on C++ Programming language with @CodSoft 
 - 📫 How to reach me twinkleghangare29@gmail.com 
 
 <!---
